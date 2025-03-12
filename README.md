@@ -51,7 +51,7 @@ I'm a **Full Stack Developer** from Pakistan, currently residing in **Karachi**.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shahid12ali&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahid12ali&show_icons=true&theme=dark&text_color=FFFFFF" alt="GitHub Stats" />
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid12ali&layout=compact&theme=dark" alt="Top Languages" />
 
