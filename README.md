@@ -44,7 +44,7 @@ I'm a **Full Stack Developer** from Pakistan, currently residing in **Karachi**.
 ### **Version Control & Tools:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-[![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-24292F?style=flat&logo=github&logoColor=white)](https://desktop.github.com/)
+[![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-24292F?style=flat&logo=github&logoColor=blue)](https://desktop.github.com/)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
