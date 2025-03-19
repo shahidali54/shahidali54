@@ -53,12 +53,12 @@ I'm a **Full Stack Developer** from Pakistan, currently residing in **Karachi**.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shahid12ali&show_icons=true&theme=dark&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidali54&show_icons=true&theme=dark&text_color=FFFFFF" alt="GitHub Stats" />
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid12ali&layout=compact&theme=dark&text_color=FFFFFF" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidali54&layout=compact&theme=dark&text_color=FFFFFF" alt="Top Languages" />
 
      
-  <img src="https://komarev.com/ghpvc/?username=shahid12ali&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shahidali54&color=blue" alt="Profile Views" />
 
 </div>
 
