@@ -59,8 +59,9 @@ I'm a **Full Stack Developer** from Pakistan, currently residing in **Karachi**.
 
    ### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidali54&theme=algolia" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidali54&theme=algolia" alt="GitHub Streak" />
 </p>
+
 
   <img src="https://komarev.com/ghpvc/?username=shahidali54&color=blue" alt="Profile Views" />
 
