@@ -61,7 +61,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidali54&layout=compact&theme=dark&text_color=FFFFFF)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shahidali54&theme=algolia)
+### 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shahidali54&theme=algolia" alt="GitHub Streak" />
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shahidali54&color=blue)
 
