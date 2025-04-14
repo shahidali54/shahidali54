@@ -63,7 +63,7 @@ I'm a **Full Stack Developer** from Pakistan, currently residing in **Karachi**.
 </p>
 
 
-
+  <img src="https://komarev.com/ghpvc/?username=shahidali54&color=blue" alt="Profile Views" />
 
 </div>
 
