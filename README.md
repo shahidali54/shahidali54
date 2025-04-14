@@ -57,7 +57,11 @@ I'm a **Full Stack Developer** from Pakistan, currently residing in **Karachi**.
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidali54&layout=compact&theme=dark&text_color=FFFFFF" alt="Top Languages" />
 
-     
+   ### 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shahidali54&theme=algolia" alt="GitHub Streak Stats" />
+</p>
+
   <img src="https://komarev.com/ghpvc/?username=shahidali54&color=blue" alt="Profile Views" />
 
 </div>
@@ -69,6 +73,18 @@ I'm a **Full Stack Developer** from Pakistan, currently residing in **Karachi**.
 - ✅ Developed a **multivendor marketplace** and **social media** platform.
 - ✅ Created a **fully authenticated and secured** web app with JWT authentication.
 - ✅ Active contributor to **open-source** projects.
+
+---
+
+## 🌍 Let's Connect  
+<p align="center">
+  <a href="https://twitter.com/shahid_ali_0">
+    <img src="https://img.shields.io/twitter/follow/shahidali?style=social" alt="Twitter Follow" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahid-ali-64676a2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+</p>
 
 ---
 
