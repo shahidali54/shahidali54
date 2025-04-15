@@ -25,7 +25,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 
 
 ### **Backend & Databases**
@@ -34,6 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=flat&logo=cloudinary)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 
 ### **DevOps & Deployment**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
@@ -66,8 +66,23 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shahidali54&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=shahidali54&color=blue)
 [![](https://visitcount.itsvg.in/api?id=shahidali54&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xshahidali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shahid-ali-64676a2ba) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahid_ali_0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahidbalich.sm@gmail.com) 
 
+---
+
+## 🏆 Achievements
+
+- ✅ Built and deployed multiple full-stack apps
+- ✅ Created a **multivendor marketplace** & **social media platform**
+- ✅ Implemented JWT **authentication & security**
+- ✅ Open-source contributor & problem solver
+
+---
+
+<p align="center">
+💡 <i>Let’s build something amazing together!</i> 🚀
+</p>
