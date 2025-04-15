@@ -4,7 +4,6 @@
   A passionate <b>Full Stack Developer</b> from Pakistan <br />
   Currently based in <b>Karachi</b> | Building modern, fast & scalable web apps
 </p>
----
 
 ## 🔥 About Me
 
