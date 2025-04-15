@@ -5,8 +5,9 @@
   Currently based in <b>Karachi</b> | Building modern, fast & scalable web apps
 </p>
 ---
-## 🔥 About Me
----
+
+##🔥 About Me
+
 - 🚀 Working with **Next.js, React.js, Python, Tailwind CSS**
 - 🎯 Building **full-stack apps** with real-time features & cloud storage
 - 🛠️ Focused on **performance**, **UI/UX**, and **API integrations**
