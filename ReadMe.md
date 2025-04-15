@@ -63,7 +63,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shahidali54&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shahidali54&limit=5&theme=dark&text_color=FFFFFF&combine_all_yearly_contributions=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shahidali54&color=blue)
 ---
