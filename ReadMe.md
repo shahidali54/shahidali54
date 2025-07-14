@@ -57,7 +57,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidali54&theme=dark&text_color=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shahidali54&theme=radical&text_color=#000000k&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahidali54&theme=radical&text_color=#000000k&no-frame=false&no-bg=true&margin-w=4" alt="trophy"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidali54&theme=react-dark" alt="Contribution Graph" width="100%"/>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
