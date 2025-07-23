@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/baner.jpg" alt="Shahid Ali Banner" style="max-width: 100%;">
+</p>
+
 <h1 align="center">Hi there, I'm Shahid Ali! 👋</h1>
 
 <p align="center">
