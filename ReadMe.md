@@ -5,10 +5,10 @@
 
 ---
 
-<h1 align="center">
+<h2 align="center">
   A passionate <b>Full Stack Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from Pakistan <br />
   Currently based in <b>Karachi</b> | Building modern, fast & scalable web apps
-</h1>
+</h2>
 
 ## 🔥 About Me
 
