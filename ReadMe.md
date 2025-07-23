@@ -5,13 +5,10 @@
 
 ---
 
-
-<h1 align="center">Hi there, I'm Shahid Ali! 👋</h1>
-
-<p align="center">
+<h1 align="center">
   A passionate <b>Full Stack Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from Pakistan <br />
   Currently based in <b>Karachi</b> | Building modern, fast & scalable web apps
-</p>
+</h1>
 
 ## 🔥 About Me
 
@@ -80,8 +77,6 @@
 
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=shahidali54&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 Achievements
 
