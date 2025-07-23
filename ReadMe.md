@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=shahidali54&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=shahidali54&color=blue)
 
 <a href="https://gitroll.io/profile/uGFwJNm0WNbQna3qHzcZ9nWWFhIh1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGFwJNm0WNbQna3qHzcZ9nWWFhIh1?theme=light" alt="GitRoll Profile Badge"/></a>
 
@@ -77,10 +77,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shahidali54&limit=5&theme=dark&text_color=FFFFFF&combine_all_yearly_contributions=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shahidali54&color=blue)
+
 ---
 
-
+[![](https://visitcount.itsvg.in/api?id=shahidali54&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 Achievements
 
