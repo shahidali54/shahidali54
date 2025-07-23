@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=shahidali54&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <a href="https://gitroll.io/profile/uGFwJNm0WNbQna3qHzcZ9nWWFhIh1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGFwJNm0WNbQna3qHzcZ9nWWFhIh1?theme=light" alt="GitRoll Profile Badge"/></a>
 
 ---
@@ -78,7 +80,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shahidali54&color=blue)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shahidali54&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🏆 Achievements
 
