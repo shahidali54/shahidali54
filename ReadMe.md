@@ -93,12 +93,7 @@
     <img width='20px' style="margin-right: 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg"/>
   </a>
   
-  <a href='https://twitter.com/0xshahidali' target="_blank">
-<!--     <img width='15px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/ -->
-<!--     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" width="28px" style="margin-right: 20px;" /> -->
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/twitterx.svg" width="20px" style="margin-right: 20px;" />
-
-  </a>
+  <a href='https://twitter.com/0xshahidali' target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" width="20px" style="margin-right: 20px;" /></a>
   
 
   
