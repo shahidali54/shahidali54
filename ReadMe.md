@@ -85,7 +85,7 @@
 - ✅ Implemented JWT **authentication & security**
 - ✅ Open-source contributor & problem solver
 
----
+
 ## <h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 
 <p align="center">
