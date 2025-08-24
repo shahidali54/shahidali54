@@ -93,8 +93,11 @@
   </a>
   
   <a href='https://twitter.com/0xshahidali' target="_blank">
-    <img width='28px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
+<!--     <img width='28px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/ -->
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" width="28px" style="margin-right: 20px;" />
   </a>
+  
+
   
   <a href='https://www.linkedin.com/in/shahid-ali-64676a2ba/' target="_blank">
     <img width='28px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
