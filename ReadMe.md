@@ -86,14 +86,15 @@
 - ✅ Open-source contributor & problem solver
 
 ---
-
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+---
 <p align="left">
   <a href='https://shahidmazari.vercel.app/' target="_blank">
-    <img width='28px' style="margin-right: 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg"/>
+    <img width='15px' style="margin-right: 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg"/>
   </a>
   
   <a href='https://twitter.com/0xshahidali' target="_blank">
-<!--     <img width='20px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/ -->
+<!--     <img width='15px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/ -->
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" width="28px" style="margin-right: 20px;" />
   </a>
   
