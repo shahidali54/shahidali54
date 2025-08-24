@@ -93,22 +93,22 @@
   </a>
   
   <a href='https://twitter.com/0xshahidali' target="_blank">
-<!--     <img width='28px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/ -->
+<!--     <img width='20px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/ -->
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" width="28px" style="margin-right: 20px;" />
   </a>
   
 
   
   <a href='https://www.linkedin.com/in/shahid-ali-64676a2ba/' target="_blank">
-    <img width='28px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+    <img width='20px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
   </a>
   
   <a href='https://instagram.com/0xshahidali' target="_blank">
-    <img width='28px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>
+    <img width='20px' style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>
   </a>
   
   <a href="mailto:shahidbaloch.sm@gmail.com">
-    <img width="28px" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"/>
+    <img width="20px" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"/>
   </a>
 </p>
 
