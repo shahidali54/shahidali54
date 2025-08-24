@@ -92,7 +92,7 @@
     <img width='20px' style="margin: 0 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg"/>
   </a>
   
-  <a href='https://twitter.com/0xshahidali' target="_blank">
+  <a href='https://twitter.com/shahid_ali_0' target="_blank">
     <img width="20px" style="margin: 0 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg"/>
   </a>
   
