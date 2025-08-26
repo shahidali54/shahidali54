@@ -88,7 +88,7 @@
 
 ## <h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <p align="center">
-  <a href='https://shahidmazari.vercel.app/' target="_blank">
+  <a href='https://www.shahidali.xyz/' target="_blank">
     <img width='20px' style="margin: 0 15px; vertical-align: middle;" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg"/>
   </a>
   
